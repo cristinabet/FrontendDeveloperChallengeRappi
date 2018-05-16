@@ -1,0 +1,77 @@
+{ "categories": [
+	{
+		"id": "a1",
+		"name": "Bebidas",
+		"sublevels": [
+			{
+				"id": "a2",
+				"name": "Gaseosas",
+				"sublevels": [
+					{
+						"id": "a3",
+						"name": "Con azúcar"
+					},
+					{
+						"id": "a4",
+						"name": "Sin azúcar"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "a5",
+		"name": "Desayunos",
+		"sublevels": [
+			{
+				"id": "a6",
+				"name": "Especiales",
+				"sublevels": [
+					{
+						"id": "a7",
+						"name": "Americano"
+					},
+					{
+						"id": "a8",
+						"name": "Criollo",
+						"sublevels": [
+							{
+								"id": "a9",
+								"name": "Arepas"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "a10",
+		"name": "Almuerzos",
+		"sublevels": [
+			{
+				"id": "a11",
+				"name": "Carnes"
+			},
+			{
+				"id": "a12",
+				"name": "Pastas"
+			}
+		]
+	},
+	{
+		"id": "a13",
+		"name": "Vinos",
+		"sublevels": [
+			{
+				"id": "a14",
+				"name": "Blanco"
+			},
+			{
+				"id": "a15",
+				"name": "Tinto"
+			}
+		]
+	}
+]
+}
